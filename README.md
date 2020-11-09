@@ -138,7 +138,7 @@
     ```
     注意：{HEROKU_APP_NAME} 是上述步驟2中的應用名稱。
     ```shell
-    --tail                     # 持續打印日誌
+    --tail                     # 持續顯示日誌
     --app {HEROKU_APP_NAME}    # 指定 App
     ```
 
@@ -154,7 +154,7 @@
 	- 可參考app.ipynb
 - 新版範例程式碼內附註解
 - 如想更多了解此程式，可以去研究 Git、Python3、[Flask 套件](http://docs.jinkan.org/docs/flask/)、[Line bot sdk](https://github.com/line/line-bot-sdk-python)
-### richmenu.py (CharBot選單配置)
+### richmenu.py (ChatBot選單配置)
 - Rich Menu選單配置與設定相關，說明可以參考 RichMenu.ipynb內的說明
 
 ### Line_image_upload.ipynb
